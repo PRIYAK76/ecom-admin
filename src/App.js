@@ -2,9 +2,7 @@
 function App() {
   return (
     <div className="App">
-      heeeehdyhty
-      <h1>ebygubqurbbrgibqrgbjhr</h1>
-      fbggjkwbrgubqwuitfgtjk
+      ecom-admin
     </div>
   );
 }
